@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.77847504.css",
+    "main.js": "/robofriends/static/js/main.dd298d36.js",
+    "static/media/Sixtyfour-Regular.ttf": "/robofriends/static/media/Sixtyfour-Regular.18738cb2562664b93a73.ttf",
+    "index.html": "/robofriends/index.html",
+    "main.77847504.css.map": "/robofriends/static/css/main.77847504.css.map",
+    "main.dd298d36.js.map": "/robofriends/static/js/main.dd298d36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77847504.css",
+    "static/js/main.dd298d36.js"
+  ]
+}
